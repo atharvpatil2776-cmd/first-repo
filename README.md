@@ -1,3 +1,4 @@
 # first-repo
-this is my first repository
-author - atharv patil
+this is my first repository.
+<br>
+Author - Atharv Patil
